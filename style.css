@@ -1,0 +1,57 @@
+h1{
+   font-family: couries, serif, fantasy;
+   font-size: inherit;
+   color: red;
+}
+
+h2{
+    font-family: couries, serif, fantasy;
+    font-size: inherit;
+    color: red;
+    }
+
+h3{
+    font-family: couries, serif, fantasy;
+    font-size: inherit;
+    color: red;
+}
+
+ p {
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+    height: 60PX;
+    width: 650px;
+
+}        
+
+body{
+    align-items: center;
+    font-family: couries, serif, fantasy;
+    background-color: antiquewhite;
+    padding: inherit;
+ 
+
+}
+
+div {
+    height: 200PX;
+    width: 350px;
+    border: 15px solid rgb(38, 54, 38);
+    padding: 50px;
+    margin: 20px;
+   
+  }
+
+  div1 {
+    height: 200PX;
+    width: 350px;
+    border: 15px solid rgb(38, 54, 38);
+    padding: 50px;
+    margin: 20px;
+    position: absolute;
+    top: 80px;
+    right: 0;
+  }
