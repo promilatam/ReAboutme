@@ -85,7 +85,7 @@ while(attempt < 6)
 for (var i = 0; i < stateVisited.length; i++){
 if(choice === stateVisited[i]){
 alert('Yes! you are rock star! thats is right!')
-loop1;
+
 
 }
 
